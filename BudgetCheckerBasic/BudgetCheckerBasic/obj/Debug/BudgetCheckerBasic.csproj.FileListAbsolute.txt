@@ -1,0 +1,11 @@
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\obj\Debug\BudgetCheckerBasic.csproj.AssemblyReference.cache
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\obj\Debug\BudgetCheckerBasic.csproj.SuggestedBindingRedirects.cache
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\obj\Debug\BudgetCheckerBasic.Properties.Resources.resources
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\obj\Debug\BudgetCheckerBasic.csproj.GenerateResource.cache
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\obj\Debug\BudgetCheckerBasic.csproj.CoreCompileInputs.cache
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\bin\Debug\BudgetCheckerBasic.exe.config
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\bin\Debug\BudgetCheckerBasic.exe
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\bin\Debug\BudgetCheckerBasic.pdb
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\obj\Debug\BudgetCheckerBasic.exe
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\obj\Debug\BudgetCheckerBasic.pdb
+G:\PythonDEV\BudgetCheckerBasic\BudgetCheckerBasic\BudgetCheckerBasic\obj\Debug\BudgetCheckerBasic.LoginWindow.resources
